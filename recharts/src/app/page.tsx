@@ -1,4 +1,4 @@
-import { MultiLineChart } from "./components/Recharts";
+import { MultiLineChart } from "../components/Recharts";
 
 export default function Home() {
   return (
